@@ -172,7 +172,7 @@ a:hover { text-decoration: none; color: #2e6da7;}
 .column-news-list .wp_entry img { vertical-align: middle; max-width: 100%; _width:expression(this.width > 800 ? "880px" : this.width);}   /**列表页文章图片大小限制**/
 .possplit { width:22px; background:url(../images/posslit.png) no-repeat center;}
 .column-news-list .wp_entry ol li p {font-family:calibri; font-size:20px;}
-.column-news-list .wp_entry ol li p a {font-family:calibri; font-size:24px; color: blue;}
+.column-news-list .wp_entry ol li p a {font-family:calibri; font-size:22px; color: blue;}
 
 
 /**文章页**/
