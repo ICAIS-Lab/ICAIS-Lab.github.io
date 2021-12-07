@@ -10,7 +10,7 @@ html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
+small, strike, strong, sub, tt, var,
 b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
@@ -203,7 +203,7 @@ h1.name {
 
 .list-card .year , .list-card div{
 	display: inline-block;
-	vertical-align: top;
+	
 }
 
 .list-card .year {
@@ -223,49 +223,49 @@ h1.name {
 }
 
 .list-card ptitle {
-	font-size: 18px;
+	font-size: 15px;
 	font-weight: 600;
 	color: #5B6A9A;
-	line-height: 30px;
+	line-height: 15px;
 }
 
 .list-card pauthor {
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: 400;
 	color: #5B6A9A;
-	line-height: 30px;
+	line-height: 10px;
 }
 
 .list-card pjournal {
-	font-size: 16px;
+	font-size: 12px;
 	color: #81899C;
-	line-height: 22px;
+	line-height: 10px;
+}
+
+.list-card a {
+	font-size: 12px;
+	font-weight: 400;
+	color: #5B6A9A;
 }
 
 .list-card topic {
-	font-size: 18px;
+	font-size: 16px;
+	font-weight: 600;
+	color: #5B6A9A;
+	line-height: 25px;
+}
+
+.list-card dtitle {
+	font-size: 16px;
 	font-weight: 600;
 	color: #5B6A9A;
 	line-height: 30px;
 }
 
-.list-card dtitle {
-	font-size: 18px;
-	font-weight: 600;
-	color: #5B6A9A;
-	line-height: 40px;
-}
-
 .list-card dintro {
-	font-size: 16px;
+	font-size: 14px;
 	color: #81899C;
-	line-height: 22px;
-}
-
-.list-card a {
-	font-size: 16px;
-	font-weight: 400;
-	color: #5B6A9A;
+	line-height: 20px;
 }
 
 .list-card h3 {
